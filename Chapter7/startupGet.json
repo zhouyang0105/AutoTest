@@ -17,7 +17,7 @@
       "method":"get",
       "queries":{
         "name":"huhansan",
-        "sex":"20"
+        "age":"20"
       }
     },
     "response":{
